@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Laptop",
+        "image": "laptop.jpg",
+        "company": "HP",
+        "price": 1200
+    },
+    {
+        "title": "Phone",
+        "image": "phone.jpg",
+        "company": "Samsung",
+        "price": 800
+    },
+    {
+        "title": "Tablet",
+        "image": "tablet.jpg",
+        "company": "Apple",
+        "price": 600
+    },
+    {
+        "title": "Headphones",
+        "image": "headphones.jpg",
+        "company": "Sony",
+        "price": 100
+    },
+    {
+        "title": "Smartwatch",
+        "image": "smartwatch.jpg",
+        "company": "Fitbit",
+        "price": 250
+    },
+    {
+        "title": "Camera",
+        "image": "camera.jpg",
+        "company": "Canon",
+        "price": 700
+    },
+    {
+        "title": "Gaming Console",
+        "image": "gaming_console.jpg",
+        "company": "PlayStation",
+        "price": 400
+    },
+    {
+        "title": "Printer",
+        "image": "printer.jpg",
+        "company": "Epson",
+        "price": 150
+    },
+    {
+        "title": "Wireless Earbuds",
+        "image": "wireless_earbuds.jpg",
+        "company": "JBL",
+        "price": 120
+    },
+    {
+        "title": "External Hard Drive",
+        "image": "external_hard_drive.jpg",
+        "company": "Seagate",
+        "price": 80
+    }
+]
